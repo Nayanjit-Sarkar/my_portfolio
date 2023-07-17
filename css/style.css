@@ -262,7 +262,7 @@ section {
     cursor: pointer;
 }
 
-.projects-content {
+.portfolio-content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, auto));
     align-items: center;
